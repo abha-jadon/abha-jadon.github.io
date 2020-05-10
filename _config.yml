@@ -1,0 +1,10 @@
+theme: jekyll-theme-hacker
+title: Abha Jadon
+email: "abha.jadon8@gmail.com"
+description: "A place to know me better!"
+baseurl: ""
+url: "http://abha-jadon.github.io"
+github_username: abha-jadon
+author: Abha Jadon
+markdown: kramdown
+future: true
